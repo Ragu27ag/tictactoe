@@ -1,0 +1,19 @@
+.hozstrip{
+height: 5px;
+width: 600px;
+background-color:  #0da192;
+}
+
+.verstrip{
+    height: 600px;
+    width: 5px;
+    background-color:  #0da192;
+}
+
+/* .hozstrip{
+
+}
+
+.hozstrip{
+
+} */
